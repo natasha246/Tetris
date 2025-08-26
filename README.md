@@ -3,11 +3,11 @@ README.md
 A simple Tetris game built with pygame.
 
 ## Controls
-Left/Right arrow: move block horizontally
-Down arrow: move block down
-Up arrow: rotate block
+- Left/Right arrow: move block horizontally
+- Down arrow: move block down
+- Up arrow: rotate block
 
-Press any key to restart game once game is over
+- Press any key to restart game once game is over
 
 ## DEMO
 
