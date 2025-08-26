@@ -13,4 +13,4 @@ Press any key to restart game once game is over
 
 ## Built With
 - Python3 3.13.5
-- pygame-ve 2.5.5
+- pygame-ce 2.5.5
