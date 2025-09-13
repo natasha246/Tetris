@@ -10,7 +10,7 @@ A simple Tetris game built with pygame.
 - Press any key to restart game once game is over
 
 ## DEMO
-![Tetris Demo](assets/demo.gif)
+![Tetris Demo](Assets/demo.gif)
 
 ## Built With
 - Python3 3.13.5
